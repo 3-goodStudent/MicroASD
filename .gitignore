@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+02_merged_data/
+04_figures/
+
+.DS_Store
+Thumbs.db
